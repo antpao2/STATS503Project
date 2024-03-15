@@ -7,3 +7,4 @@ The files that I was responsible for/contributed to were the following:
 - EDA_503_Project
 - merge
 - fit model
+  
